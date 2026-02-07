@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誘いの水底",
+  "base_artist": "Annabel、霜月はるか",
+  "createdAt": "2026-02-07T13:58:17.188953Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誘いの水底",
+      "artist": "Annabel、霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_誘いの水底_Annabel、霜月はるか.txt"
+    }
+  ]
+}
